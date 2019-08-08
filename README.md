@@ -1,1 +1,1 @@
-# Java-ile-Programlamaya-lk-Adim
+# Java ile programlamaya ilk adım eğitiminde yazdığımız kodlar.
